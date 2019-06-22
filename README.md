@@ -6,7 +6,7 @@
 
 1. [Headings](#h)
 2. [Text Formatting](#tf)
-3. [Blockquote](#b)
+3. [Blockquotes](#b)
 4. [Links](#a)
 4. [Lists](#l)
 5. [Images](#i)
@@ -55,13 +55,13 @@ ___
 
 ___
 
-## Blockquote<a name="b"/></a>
+## Blockquotes<a name="b"/></a>
 
 <!-- Blockquote -->
 > This is a quote
 ___
 
-## Links
+## Links<a name="a"/></a>
 
 <!-- Link -->
 [raspberrypi](https://raspberrypi.onthewifi.com)\
